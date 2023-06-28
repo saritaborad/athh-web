@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "icon": "image/php.png",
+        "title": "PHP",
+        "subtitle": "developer",
+        "type": "Full time",
+        "qualities": "PHP, SQL, MongoDB",
+        "opnings": 2,
+        "location": "Surat",
+        "experiance": "1-2",
+        "salary": "No bar",
+        "category": "backend"
+    },
+    {
+        "id": 2,
+        "icon": "image/reactjs.png",
+        "title": "React JS",
+        "subtitle": "developer",
+        "type": "Full time",
+        "qualities": "Redux, Javascript",
+        "opnings": 2,
+        "location": "Surat",
+        "experiance": "1-2",
+        "salary": "No bar",
+        "category": "frontend"
+    },
+    {
+        "id": 3,
+        "icon": "image/android.png",
+        "title": "Android",
+        "subtitle": "developer",
+        "type": "Full time",
+        "qualities": "Kotlin",
+        "opnings": 2,
+        "location": "Surat",
+        "experiance": "1-2",
+        "salary": "No bar",
+        "category": "app"
+    },
+    {
+        "id": 4,
+        "icon": "image/Flutter.png",
+        "title": "Flutter",
+        "subtitle": "developer",
+        "type": "Full time",
+        "qualities": "Dart and Frontend ",
+        "opnings": 2,
+        "location": "Surat",
+        "experiance": "1-2",
+        "salary": "No bar",
+        "category": "app"
+    },
+    {
+        "id": 5,
+        "icon": "image/Unity.png",
+        "title": "Unity",
+        "subtitle": "developer",
+        "type": "Full time",
+        "qualities": "C-sharp, Socket",
+        "opnings": 2,
+        "location": "Surat",
+        "experiance": "1-2",
+        "salary": "No bar",
+        "category": "game"
+    },
+    {
+        "id": 6,
+        "icon": "image/figma.png",
+        "title": "UI/UX",
+        "subtitle": "designer",
+        "type": "Full time",
+        "qualities": "Figma, Photoshop cc, Adobe xd , Illustration",
+        "opnings": 2,
+        "location": "Surat",
+        "experiance": "1-2",
+        "salary": "No bar",
+        "category": "ui/ux"
+    },
+    {
+        "id": 7,
+        "icon": "image/solidity.png",
+        "title": "Blockchain",
+        "subtitle": "developer",
+        "type": "Full time",
+        "qualities": "Solidity, Rust , Web3 and Ether",
+        "opnings": 2,
+        "location": "Surat",
+        "experiance": "1-2",
+        "salary": "No bar",
+        "category": "blockchain"
+    }
+]

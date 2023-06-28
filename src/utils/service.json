@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "heading": "MOBILE APP DEVELOPMENT",
+        "subHeading": "We create mobile apps for Android, iPhone, and iPad. You can get Multimedia, Finance, Business, Communication and other apps developed.",
+        "list1": "Android",
+        "list2": "Flutter",
+        "list3": "IOS",
+        "list4": "React Native",
+        "icon1": "image/service/android.png",
+        "icon2": "image/service/Flutter.png",
+        "icon3": "image/service/ios.png",
+        "icon4": "image/service/reactjs.png"
+    },
+    {
+        "id": 2,
+        "heading": "WEB DEVELOPMENT",
+        "subHeading": "We offer open-source web creation services so that you can view, absorb, and change the contents as you see fit. Our team of professional web developers makes sure that the user-interactive front end of your website or web app looks good.",
+        "list1": "React JS",
+        "list2": "Vue JS",
+        "list3": "PHP",
+        "list4": "Node JS",
+        "icon1": "image/service/reactjs.png",
+        "icon2": "image/service/vue.png",
+        "icon3": "image/service/php.png",
+        "icon4": "image/service/node.png"
+    },
+    {
+        "id": 3,
+        "heading": "BLOCKCHAIN DEVELOPMENT",
+        "subHeading": "We create and build unique blockchain systems using Hyperledger, EVM, Solidity. We know how to create a decentralized platform for NFTs, building business logic and maintaining blockchain nodes.",
+        "list1": "Solidity",
+        "list2": "Rust",
+        "list3": "GO Lang",
+        "list4": "WEB 3",
+        "icon1": "image/service/solidity.png",
+        "icon2": "image/service/rust.png",
+        "icon3": "image/service/go.png",
+        "icon4": "image/service/web3.png"
+    },
+    {
+        "id": 4,
+        "heading": "UI/UX DESIGN",
+        "subHeading": "Ul focuses on making it more visually appealing and emotionally comfortable for the user.",
+        "list1": "Interface design",
+        "list2": "Interaction design",
+        "list3": "Research",
+        "list4": "Prototyping",
+        "icon1": "image/service/photoshop.png",
+        "icon2": "image/service/Xd.png",
+        "icon3": "image/service/illustrator.png",
+        "icon4": "image/service/figma.png"
+    },
+    {
+        "id": 5,
+        "heading": "BACKEND DEVELOPMENT",
+        "subHeading": "Whilst the front-end development is crucial for user interaction, the back-end development team takes care of its smooth functioning.",
+        "list1": "Mongo DB",
+        "list2": "AWS",
+        "list3": "Node JS",
+        "list4": "Firebase",
+        "icon1": "image/service/mongo.png",
+        "icon2": "image/service/aws.png",
+        "icon3": "image/service/node.png",
+        "icon4": "image/service/firebase.png"
+    },
+    {
+        "id": 6,
+        "heading": "GAME DEVELOPMENT",
+        "subHeading": "We develop games for mobile, web platforms. Our developers have in-depth expertise in cutting-edge game engines such as Unity and  hands-on experience across multiple genres.",
+        "list1": "Unity",
+        "list2": "COCO Gaming",
+        "list3": "HTML Gaming",
+        "list4": "Unreal",
+        "icon1": "image/service/Unity.png",
+        "icon2": "image/service/unreal.png"
+    }
+]

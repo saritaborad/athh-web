@@ -1,0 +1,1495 @@
+  /* Custom, iPhone Retina */
+  @media only screen and (min-width: 320px) and (max-width: 720px) {
+    .centerParentDiv {
+      width: 90%;
+    }
+
+    .titlequestion {
+      font-size: larger;
+    }
+
+    
+
+    #navillusion,
+    #sideillusion,
+    #pipeimg,
+    #portfolio_div {
+      display: none;
+    }
+
+    #landingDiv {
+      flex-direction: column-reverse;
+    }
+
+    #LandingText {
+      width: 100%;
+    }
+
+    #LandingImage {
+      width: 100%;
+    }
+
+    #landingTop {
+      width: 100%;
+    }
+
+    #smallLine {
+      width: 90px;
+    }
+
+    #landingBigText p {
+      font-size: 35px;
+    }
+
+    #landingBigText span {
+      font-size: 35px;
+    }
+
+    #landingDescription {
+      font-size: larger !important;
+    }
+
+    #abouttexts {
+      width: 100%;
+    }
+
+    #techBoxDiv {
+      padding: 10px 5px;
+    }
+
+    .techboxMain {
+      padding: 20px;
+    }
+
+    .techboxMain p {
+      width: 100%;
+    }
+
+    .techImagesParent {
+      display: grid;
+      grid-template-columns: auto auto;
+      margin-top: 10px;
+      height: auto;
+    }
+
+    .techImagesParent div {
+      margin-top: 5px;
+      margin-left: 5px;
+
+    }
+
+    #methdologyParent {
+      padding: 30px;
+      width: 90%;
+      margin: auto;
+    }
+
+    #methodologyCallus {
+      display: none;
+    }
+
+    #methodologymain {
+      padding-top: 10px;
+      grid-template-columns: auto;
+      gap: 0;
+    }
+
+    #methodologymain div {
+      margin-top: 30px;
+    }
+
+    .methodologyText {
+      margin-top: 30px;
+    }
+
+    #why_athh_div {
+      width: 90%;
+      height: 1200px;
+    }
+
+    #hrline {
+      display: none;
+    }
+
+    #why_athh_content {
+      display: block;
+    }
+
+
+    .whyathh_child {
+      width: 100%;
+      margin-top: 30px;
+    }
+
+    .reviewSideImgDiv {
+      display: none;
+    }
+
+    .dummyCrousal {
+          display: flex;
+            justify-content: center;
+    }
+
+    .customerReviewMain {
+      height: 500px;
+    }
+
+    .reviewCenterDiv {
+      width: 100%;
+      padding-bottom: 120px;
+    }
+
+    #reviewTextDiv {
+      width: 100%;
+      height: auto;
+    }
+
+
+   
+
+    #reviewNumDiv {
+      padding: 50px;
+
+      width: 90%;
+      height: auto;
+      display: block;
+    }
+
+    #reviewNumInner {
+      display: block;
+      width: 100%;
+    }
+
+    #reviewNumInner div {
+      margin-top: 50px;
+    }
+
+    #firstReviewCountDiv {
+      margin-top: 0 !important;
+    }
+
+    #newsletterDiv {
+      width: 90%;
+      padding: 20px;
+      margin-top: 10%;
+    }
+
+    #newsletterDiv p {
+      width: 100%;
+    }
+
+    #emailSubscribeDiv {
+      display: block;
+    }
+
+    #inputEmail {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+
+    #emailSubscribeDiv {
+      width: 100%;
+    }
+
+    #FooterDiv {
+      display: block;
+      text-align: center;
+    }
+
+    #footertext {
+      width: 100%;
+    }
+
+    .footerchilds ui {
+      display: inline-block;
+    }
+
+    #socialmediaParent {
+      width: fit-content;
+      margin: auto;
+      margin-top: 10px;
+    }
+
+    /* #liblue {
+      display: none;
+    } */
+
+    #navitems,
+    #navbtnPrnt {
+      display: none;
+    }
+
+    #navbar_center {
+      padding-right: 10px;
+    }
+
+    #humbergerBtn {
+      display: block;
+    }
+
+  
+    #techboxTop div {
+      width: fit-content;
+    }
+
+    #techboxTop div p {
+      display: none;
+    }
+
+    .spacer {
+      height: 100px;
+    }
+
+    #footerDesc div {
+      justify-content: center;
+    }
+
+    #footertext {
+      line-height: 28px;
+    }
+
+    .footerchilds ui {
+      margin-top: 10px;
+    }
+
+    #techboxTop div img {
+      height: 35px;
+    }
+  }
+
+  /* Small Devices, Tablets */
+  @media only screen and (min-width: 768px) {}
+
+  /* Medium Devices, Desktops */
+  @media only screen and (min-width: 992px) {}
+
+  /* Large Devices, Wide Screens */
+  @media only screen and (min-width: 1200px) {}
+
+  @media only screen and (max-width: 1440px) {
+
+    /* about us ////////////////////// */
+    .filepond--wrapper {
+
+      margin-top: -9.5%;
+    }
+
+    .listOfNumbers {
+      flex-direction: column;
+    }
+
+    .number {
+      width: 100%;
+      margin-bottom: 80px;
+    }
+
+    .headingNumber h1 {
+      padding-top: 40px;
+    }
+
+    .headingAbout h1 {
+      font-size: 48px;
+    }
+
+    .subheadingAbout {
+      font-size: 20px;
+    }
+
+    .listAbout .itemAbout {
+      width: 350px;
+    }
+
+    .imageCard img {
+      width: 420px;
+    }
+
+    .imageTxt h1 {
+      font-size: 30px;
+    }
+
+    .imageTxt #bigTxt {
+      font-size: 20px;
+    }
+
+    .imageList ul li {
+      font-size: 18px;
+    }
+
+    /* Our work page//////////////////////////////// */
+
+    .portfolioCards {
+      grid-template-columns: 40% 40%;
+      margin-left: 10%;
+    }
+
+    /* Services page/////////////////////////////////////////// */
+
+    .headingService h1 {
+      font-size: 48px;
+    }
+
+    .serviceImg {
+      width: 50px;
+      font-size: 50px;
+    }
+
+    .subheadingService p {
+      font-size: 18px;
+      width: 630px;
+      line-height: 30px;
+    }
+
+    .gridConatiner {
+      grid-template-columns: 0;
+      margin-left: 90px;
+      align-items: flex-start;
+    }
+
+    .mainCard {
+      width: 1000px;
+    }
+
+    /* Career page//////////////////////////////////////// */
+    .opningHeading h1 {
+      font-size: 24px;
+    }
+
+    .careerCard {
+      margin-right: 20px;
+      margin-bottom: 18px;
+      width: 100%;
+    }
+
+
+
+    .opningCard {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    /* News latter /////////////////////////////////////////// */
+
+    #newsLetter {
+      flex-direction: column;
+    }
+
+    #inputEmail {
+      margin-bottom: 20px;
+      width: 100%
+    }
+
+
+
+  }
+
+  @media only screen and (max-width:1280px) {
+    .imageTxt #bigTxt {
+      font-size: 15px;
+      width: 450px;
+    }
+
+    .imageTxt #smallTxt {
+      font-size: 18px;
+    }
+
+    .imageList ul li {
+      font-size: 12px;
+      padding: 6px;
+    }
+
+    .portfolioCards {
+      grid-template-columns: 40% 40%;
+      column-gap: 10%;
+      /* margin-left: 4%; */
+    }
+
+    .subheadingService p {
+      font-size: 18px;
+      width: 500px;
+    }
+
+    .mainCard {
+      width: 790px;
+    }
+
+    .mainCard h1 {
+      font-size: 28px;
+    }
+
+    .addressInfo {
+      font-size: 14px;
+    }
+
+    .add-subtitle {
+      letter-spacing: 8px;
+    }
+
+    .aE-subHeading {
+      font-size: 16px;
+    }
+
+  }
+
+  @media only screen and (max-width: 1024px) {
+    /* Navbar///////////////////////// */
+
+    #navitems li {
+      margin-right: 20px;
+    }
+
+    /* about us ////////////////////// */
+
+    .headingAbout h1 {
+      font-size: 40px;
+    }
+
+    .filepond--wrapper {
+      margin-left: 0;
+      margin-top: 0;
+    }
+
+   
+
+    #reviewText {
+      font-size: small;
+    }
+
+    #ratingReview {
+      font-size: 50px;
+    }
+
+    #happyClients {
+      font-size: 50px;
+    }
+
+    #projectComplated {
+      font-size: 50px;
+    }
+
+    #landingBigText p,
+    #landingBigText span {
+      font-size: 46px;
+    }
+
+    #landingText p {
+      font-size: 18px;
+    }
+
+    .techImagesParent div {
+      height: 110px;
+      width: 110px;
+    }
+
+    #portfoliFirstCol,
+    #portfolisecondCol {
+      flex-wrap: wrap;
+    }
+
+    #portfoliFirstCol {
+      order: 2;
+    }
+
+    #portfolioTitleDiv {
+      margin-bottom: 20px;
+
+    }
+
+    #portfolilastCol {
+      right: -20%;
+    }
+
+    .portfolio_card {
+
+      width: 38%;
+
+    }
+
+    .subheadingAbout {
+      font-size: 18px;
+    }
+
+    .listAbout {
+      flex-direction: column;
+    }
+
+    .listAbout .itemAbout {
+      width: 100%;
+    }
+
+    .imageCard img {
+      width: 320px;
+    }
+
+    .imageCard {
+      margin-right: 15px;
+    }
+
+    .imageTxt h1 {
+      font-size: 24px;
+    }
+
+    .imageTxt #bigTxt {
+      font-size: 15px;
+      width: 450px;
+    }
+
+    .imageTxt #smallTxt {
+      font-size: 18px;
+    }
+
+    .imageList ul li {
+      font-size: 12px;
+      padding: 6px;
+    }
+
+    .behindOutLineNumbers {
+      top: 0;
+      display: none;
+    }
+
+    /* Our work page//////////////////////////////// */
+
+    .portfolioCards {
+      grid-template-columns: 40% 40%;
+      column-gap: 10%;
+      /* margin-left: 4%; */
+    }
+
+    /* Career page ////////////////////////////////////////// */
+
+    .careerFormHeading {
+      font-size: 30px;
+    }
+
+    .careerFormSubHeading {
+      font-size: 14px;
+    }
+
+    .secondHalf {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .careerRow {
+      grid-template-columns: 40% 40%;
+      width: 100%;
+      margin-left: 0;
+      gap: 2% 3%;
+      /* justify-content: center; */
+    }
+
+    .careerFile {
+      width: 100%;
+      margin-left: 0 !important;
+      margin-top: 20px;
+    }
+
+    .careerSubject {
+      width: 100%;
+    }
+
+    /* Services page ///////////////////////////////////////////// */
+    .textService {
+      display: flex;
+      flex-direction: column;
+      align-items: left;
+    }
+
+    .gridConatiner {
+      margin-left: -60px;
+    }
+
+    .mainCard {
+      width: 950px;
+    }
+
+    .subCard {
+      width: 877px;
+    }
+
+    .headingService h1 {
+      margin-bottom: 40px;
+    }
+
+
+  }
+
+  @media only screen and (max-width: 768px) {
+
+    /* #navitems,
+    #navbtnPrnt {
+      display: none;
+    } */
+
+    #portfolio_div {
+      display: none;
+    }
+
+
+    #navbar_center {
+      padding-right: 10px;
+    }
+
+    #humbergerBtn {
+      display: block;
+    }
+
+    /* about us ////////////////////// */
+    #humbergerBtn {
+      display: block;
+    }
+
+    .filepond--root .filepond--drop-label {
+      min-height: 2.75em;
+    }
+
+    #filepond--drop-label-j62i5sozz {
+      font-size: 19px;
+    }
+
+    .filepond--root {
+      height: 49px;
+    }
+
+    #quoteimg {
+      /* top: -25%; */
+    }
+
+    #reviewText {
+      font-size: 12px;
+    }
+
+
+
+    #ratingReview {
+      font-size: 40px;
+    }
+
+    #happyClients {
+      font-size: 40px;
+    }
+
+    #projectComplated {
+      font-size: 40px;
+    }
+
+    #reviewNumDiv {
+      width: 80%;
+    }
+
+    #reviewTextDiv {
+      width: 100%;
+    }
+
+    #emailSubscribeDiv {
+      flex-direction: column;
+      width: 100%;
+    }
+
+    #subscribeBtn {
+      /* margin-top: 10% */
+      width: 100%;
+    }
+
+    #footerDesc div {
+      height: 80px;
+      display: flex;
+      align-items: center;
+      width: 60%;
+      justify-content: center;
+    }
+
+    .techImagesParent {
+      display: grid;
+      grid-template-columns: auto auto;
+      margin-top: 10px;
+      height: auto;
+    }
+
+    #techboxTop div {
+      justify-content: center;
+    }
+
+    #FooterDiv {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    #portfoliFirstCol,
+    #portfolisecondCol {
+      flex-wrap: wrap;
+    }
+
+    #portfoliFirstCol {
+      order: 2;
+    }
+
+
+    #portfolioTitleDiv {
+      margin-bottom: 20px;
+
+    }
+
+    #portfolilastCol {
+      right: -20%;
+    }
+
+    .portfolio_card {
+
+      width: 38%;
+
+    }
+
+
+    .footerchilds {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .footerchilds ul {
+      margin-top: 0;
+    }
+
+    .txtAbout {
+      flex-direction: column;
+    }
+
+    #techboxTop div img {
+      margin-left: 35px;
+    }
+
+    #techboxTop div p {
+      display: none;
+    }
+
+    #sideillusion {
+      display: none;
+    }
+
+    #landingDiv {
+      align-items: flex-start;
+      flex-direction: column-reverse;
+    }
+
+    #LandingImage {
+      width: 100%;
+    }
+
+    #techboxTop div img {
+      margin-left: 0px;
+    }
+
+    /* #happyClients {
+      margin-top: 50px;
+    } */
+
+
+    .headingAbout h1 {
+      font-size: 40px;
+    }
+
+    #navitems,
+    #navbtnPrnt {
+      display: none;
+    }
+
+    .subheadingAbout {
+      width: 495px;
+      margin-top: 40px;
+    }
+
+    .imageCard img {
+      width: 220px;
+    }
+
+    .imageCard {
+      margin-right: 15px;
+    }
+
+    .imageTxt h1 {
+      font-size: 18px;
+    }
+
+    .imageTxt #bigTxt {
+      font-size: 12px;
+      width: 320px;
+      line-height: 22px;
+    }
+
+    .imageTxt #smallTxt {
+      font-size: 12px;
+
+    }
+
+    .imageList ul li {
+      font-size: 9px;
+      line-height: 16px;
+      list-style: disc;
+    }
+
+    /* Our work page//////////////////////////////// */
+    .portfolioCards {
+      grid-template-columns: 70%;
+      display: grid;
+      margin-left: 30px;
+      margin-right: 0;
+      justify-content: center;
+    }
+
+    .btnOfCard {
+      display: block;
+    }
+
+    /* Career page /////////////////////////////////////// */
+
+    .careerCard {
+      margin-right: -30px;
+      width: 590px;
+    }
+
+    .careerFormSubHeading {
+      line-height: 20px;
+    }
+
+    .mainFormOfCareer input {
+      padding: 15px;
+      font-size: 14px;
+    }
+
+    .typeButtons button {
+      font-size: 12px;
+      padding: 10px 18px;
+    }
+
+    .careerRow {
+      grid-template-columns: 100%;
+      width: 100%;
+      gap: 0%;
+    }
+
+    .submit-btn {
+      padding: 25px 65px;
+    }
+
+    /* Services page////////////////////////////////// */
+
+    .mainCard {
+      width: 735px;
+    }
+
+    .subCard {
+      width: 680px;
+    }
+
+    #liblue {
+      justify-content: center;
+    }
+
+    .subCardIcon {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    /* Fotter///////////////////////////////// */
+    #conUi {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .logoAndMore {
+      margin-left: -40px;
+    }
+
+    .logoTextOfFooter {
+      margin-left: -80px;
+    }
+
+  }
+
+  @media only screen and (max-width: 425px) {
+
+    /* about us ////////////////////// */
+    .logoImgOfFotter img {
+      height: 45px;
+    }
+
+    .headingNumber h1 {
+      padding-top: 20px;
+      font-size: 20px
+    }
+
+    .subHeadingNumber p {
+      font-size: 12px;
+    }
+
+    #filepond--drop-label-j62i5sozz {
+      font-size: 16px;
+    }
+
+    .txtAbout {
+      align-items: flex-start;
+    }
+
+    #quoteimg {
+      /* width: 25%; */
+    }
+
+    #reviewText {
+      font-size: 20px;
+    }
+
+
+
+    #newsSettlerForm {
+
+      flex-direction: column;
+    }
+
+    .footerchilds ul li {
+      justify-content: center;
+    }
+
+    #landingBigText span {
+      font-size: 38px;
+    }
+
+    #landingBigText p {
+      font-size: 38px;
+    }
+
+
+    .headingAbout h1 {
+      font-size: 24px;
+    }
+
+    .headingAbout p {
+      font-size: 14px;
+    }
+
+    .subheadingAbout {
+      width: 300px;
+      margin-top: 30px;
+      font-size: 18px;
+      line-height: 28px;
+    }
+
+    .imageCard img {
+      width: 220px;
+    }
+
+    .imageCard {
+      display: none;
+    }
+
+    .imageTxt h1 {
+      font-size: 18px;
+    }
+
+    .imageTxt #bigTxt {
+      font-size: 12px;
+      width: 320px;
+      line-height: 22px;
+    }
+
+    .imageTxt #smallTxt {
+      font-size: 12px;
+
+    }
+
+    .imageList ul li {
+      font-size: 12px;
+      line-height: 16px;
+      /* list-style: none; */
+    }
+
+    .listSubheading p {
+      font-size: 15px;
+      line-height: 30px;
+    }
+
+    .listHeading h1 {
+      font-size: 24px;
+    }
+
+    #listTwo {
+      margin-left: 20%;
+    }
+
+    .number {
+      margin-bottom: 120px;
+      width: 100%;
+    }
+
+    /* Our work page//////////////////////////////// */
+    .portFolioSubheading p {
+
+      width: 99%;
+
+      font-size: 18px;
+    }
+
+    .portfolioCards {
+
+      margin-left: -4%
+    }
+
+
+
+    .imgOfCard img {
+
+      width: 300px;
+    }
+
+    .portCard {
+
+      width: 350.5px;
+      height: auto;
+    }
+
+    .btnOfCard {
+      margin-top: 10px;
+      opacity: 1;
+
+    }
+
+    .btnOfCard button {
+      width: 303.5px;
+      height: 73px;
+
+    }
+
+
+    .portFolioHeading h1 {
+      font-size: 45px;
+    }
+
+    /* career page ////////////////////////////////////////// */
+
+    .careerForm {
+      width: 95%;
+      margin-left: 2.5%;
+    }
+
+    #headlineOfCareer {
+      font-size: 40px;
+      text-align: center;
+    }
+
+    .typeButtons {
+      display: none;
+    }
+
+    .specButton button {
+      display: flex;
+      justify-content: center;
+      border-radius: 12px;
+    }
+
+    #spaceMe {
+      height: 40px;
+    }
+
+    .careerFormSubHeading {
+      display: none;
+    }
+
+    .mainFormOfCareer input {
+      font-size: 14px;
+      width: 320px;
+      margin-left: -8px;
+    }
+
+    .careerFile {
+      width: 108%;
+      margin-left: -8px !important;
+    }
+
+    .submit-btn {
+      padding: 15px 40px;
+      font-size: 12px;
+    }
+
+    .careerCard {
+      width: 100%;
+    }
+
+    .typeButtons button {
+      font-size: 8px;
+      padding: 6px 14px;
+    }
+
+    .typeButtons {
+      gap: 5px;
+    }
+
+    .specButton button {
+      width: 100%;
+      height: 38px;
+      font-size: 14px;
+    }
+
+    .question {
+      font-size: 12px;
+    }
+
+    .answer {
+      font-size: 12px;
+    }
+
+    /* Services page ///////////////////////////// */
+    .headingService p {
+      font-size: 10px;
+      letter-spacing: 8px;
+    }
+
+    .headingService h1 {
+      font-size: 35px;
+    }
+
+    .subheadingService p {
+      font-size: 12px;
+      width: 380px;
+      line-height: 21px;
+    }
+
+
+    .mainCard h1 {
+      font-size: 30px;
+      margin-right: 50px;
+    }
+
+    .subCardTxt p {
+      font-size: 14px;
+      line-height: 22px;
+    }
+
+    .subCardList {
+      font-size: 12px;
+    }
+
+    .icon {
+      font-size: 30px;
+      margin-left: 10px;
+
+    }
+
+    .gridConatiner {
+      margin-left: -9px;
+    }
+
+    .mainCard {
+      width: 400px;
+    }
+
+    .subCard {
+      width: 350px;
+      height: 450px;
+    }
+
+    /* Fotter////////////////////////////////////// */
+    #logoAndMore {
+      display: flex;
+      width: 100%;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .logoTextOfFooter {
+      margin: 6% 0 6% 0;
+    }
+
+    #footerDesc div {
+      width: 100%;
+    }
+
+    .logoTextOfFooter h1 {
+      font-size: 24px;
+    }
+
+    .logoTextOfFooter p {
+      font-size: 14px;
+    }
+
+    /* .logoTextOfFooter {
+      width: 135%;
+      margin-right: 15%;
+      font-size: 12px;
+    } */
+
+    #socialmediaParent {
+      width: 90%;
+    }
+
+
+
+  }
+
+  @media only screen and (max-width: 375px) {
+    .careerCard {
+      height: 370px;
+      width: 100%;
+    }
+
+    #reviewText {
+      font-size: 17px;
+    }
+
+    #ourWork {
+      font-size: 38px;
+    }
+
+    .portFolioSubheading p {
+      width: 80%;
+      font-size: 14px;
+    }
+
+    .portfolioCards {
+      margin-left: -12%;
+      justify-content: center;
+      width: 100%;
+    }
+
+    #ourWork {
+      font-size: 30px;
+    }
+
+    .portFolioHeading h1 {
+      font-size: 40px;
+    }
+
+    #hork {
+      letter-spacing: 5px;
+    }
+
+    .techIcon {
+      width: 45px;
+    }
+
+    .mainFormOfCareer input {
+      width: 282px;
+    }
+
+    .mainFormOfCareer input::placeholder {
+      font-size: 12px;
+    }
+
+    #filepond--drop-label-j62i5sozz {
+      font-size: 12px;
+    }
+
+    .logoTextOfFotter {
+      margin-right: 30px;
+      font-size: 14px;
+    }
+
+
+    #footerDesc div {
+      width: 109%
+    }
+
+    #landingBigText p {
+      font-size: 30px;
+    }
+
+    #landingBigText span {
+      font-size: 30px;
+    }
+
+
+    #technologogyTopDiv {
+      justify-content: space-evenly;
+    }
+
+    .titlequestion {
+      font-size: small;
+    }
+
+    
+
+    .borderBtn {
+      padding: 0px 10px;
+      height: 48px;
+      font-size: 12px;
+    }
+
+    #techboxTop div img {
+      width: 25px;
+      height: 25px;
+    }
+
+    .techboxMain {
+      margin-top: 12px;
+      font-size: 12px;
+    }
+
+    .techboxMain p {
+      line-height: 22px;
+    }
+
+    #listTwo {
+      margin-left: 20%;
+    }
+
+    #abouttexts {
+      line-height: 20px;
+      font-size: small;
+    }
+
+    .opningHeading h1 {
+      font-size: 18px;
+    }
+
+    /* Services page///////////////////////// */
+    .subheadingService p {
+      width: 330px;
+    }
+
+    .mainCard {
+      width: 350px;
+      height: 580px;
+    }
+
+    .subCard {
+      width: 310px;
+      height: 400px;
+    }
+
+    .headingAbout h1 {
+      font-size: 22px;
+    }
+
+    .icon {
+      margin-left: 5px;
+    }
+
+    .serviceImg {
+      width: 40px;
+      font-size: 40px;
+    }
+
+    /* Footer/////////////////////////////// */
+    #socialmediaParent div {
+      border: none;
+    }
+
+    .footerIcon {
+      font-size: 25px;
+    }
+
+    /* About us////////////////////////////// */
+    .outLineNumber {
+      top: -67%;
+    }
+  }
+
+  @media only screen and (max-width: 320px) {
+    .careerCard {
+      height: 360px;
+      width: 100%
+    }
+
+    .specButton button {
+      width: 100%;
+      border-radius: 10px;
+    }
+
+    .cardDetails {
+      align-items: center;
+    }
+
+    .opningHeading h1 {
+      font-size: 12px;
+    }
+
+    .headingAbout h1 {
+      font-size: 18px;
+    }
+
+    .subheadingAbout {
+      width: 250px;
+      font-size: 14px;
+      line-height: 24px;
+    }
+
+    #listTwo {
+      margin-left: 8%;
+    }
+
+    #listOne {
+      margin-left: 5%;
+    }
+
+    .imageList ul li {
+      list-style: disc;
+    }
+
+    .techIcon {
+      width: 35px;
+    }
+
+    .filepond--root .filepond--drop-label {
+      min-height: 4.3em;
+    }
+
+    .filepond--root :not(text) {
+      font-size: 11px;
+    }
+
+    /* .specButton button {
+      width: 100px;
+      height: 25px;
+      font-size: 12px;
+    } */
+
+    .mainFormOfCareer input {
+      font-size: 6px;
+      padding: 10px;
+    }
+
+    .submit-btn {
+      padding: 10px 30px;
+      font-size: 9px;
+    }
+
+    /* Services page///////////////////////// */
+    .headingService p {
+      font-size: 10px;
+      letter-spacing: 5px;
+    }
+
+    .headingService h1 {
+      font-size: 30px;
+    }
+
+    .subheadingService p {
+      width: 290px;
+    }
+
+    .mainCard {
+      width: 305px;
+      height: 520px;
+    }
+
+    .mainCard h1 {
+      font-size: 24px;
+    }
+
+    .subCard {
+      width: 270px;
+      height: 350px;
+    }
+
+    .subCardTxt p {
+      font-size: 12px;
+      line-height: 16px;
+    }
+
+    .icon {
+      margin-left: 10px;
+      font-size: 24px;
+    }
+  }
